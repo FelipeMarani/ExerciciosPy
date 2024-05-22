@@ -1,0 +1,7 @@
+nome = str(input("Digite seu nnome completo: "))
+lower = nome.lower()
+upper = nome.upper()
+lis = len(nome.split())
+print(upper)
+print(lower)
+print(cont)
